@@ -28,7 +28,7 @@
 
 ## Experience
 
-**AI Engineer Intern, NRSolutions4u (Jan 2026 – Jun 2026)**
+**AI Engineer Intern, NRSolutions4u (Jan 2026 – Oct 2026)**
 Worked on an AI career-guidance platform: resume parsing, skill extraction, a recommendation system and a prompt-based chatbot, built with Python, NLP and Streamlit. Afterwards I built ML projects for students at the centre and guided them through their work. The code is proprietary, so I'm happy to explain the design and my contribution in an interview.
 
 ## Education
